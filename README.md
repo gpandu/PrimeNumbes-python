@@ -5,7 +5,7 @@ Finding string of cancatened prime numbers of length N+5
 Ex1: if N = 5
 Result: 2357111317
 
-Ex1: if N = 10
+Ex2: if N = 10
 Result: 2357111317192329
 
 Note: Actual length can vary depending on the lenth of last number
