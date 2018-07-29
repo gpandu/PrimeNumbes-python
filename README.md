@@ -9,6 +9,6 @@ Ex2: if N = 10
 Result: 2357111317192329
 
 Note: Actual length can vary depending on the lenth of last number
-
-1. File 1 inlcudes optimized version of finding the prime numbers string.
-2. File 2 includes fastest running code for finding the string.
+ 
+1. Fastest_PrimeN's includes fastest running code for finding prime numbers string.
+2. Optimized_PrimeN's inlcudes optimized version of finding prime numbers string.
