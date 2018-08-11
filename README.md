@@ -1,6 +1,6 @@
 # PrimeNumbes_python
 
-Finding string of cancatened prime numbers of length N+5
+Finding string of cancatened prime numbers upto length of N+5
 
 Ex1: if N = 5
 Result: 2357111317
